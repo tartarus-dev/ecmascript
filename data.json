@@ -1,0 +1,75 @@
+{
+  "products": [
+    {
+      "id": "7aa649c2-8234-4228-b68e-659f4cd814d7",
+      "name": "Espresso",
+      "cateId": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecma-4dd6f.appspot.com/o/images%2Fesp.jpg?alt=media&token=c99f2df1-c5df-4e7b-992e-df80b63a73c7",
+      "detail": "Espresso là café được pha bằng máy, sử dụng nước nóng nén bởi áp suất cao qua lớp bột cà phê được xay mịn. Nước dùng để pha chế Espresso là nước tinh khiết, còn café dùng để pha chế theo phương pháp này cũng phải là café rang mộc, không tẩm ướp bất kỳ tạp chất nào.",
+      "price": "60000",
+      "status": true
+    },
+    {
+      "id": "db3f4fe0-24ef-48bf-89e0-1361a17244d9",
+      "name": "Dessert Cake",
+      "cateId": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecma-4dd6f.appspot.com/o/images%2Fcake8.jpg?alt=media&token=b981c4ce-61a5-4d58-b313-3c8c12c3150b",
+      "detail": "Cream cheese, trứng, bột hạnh nhân, cà phê, rượu Kahlua, bơ, kem tươi, cacao, bánh quy, đường, vani, gelatin, nước.",
+      "price": "30000"
+    },
+    {
+      "id": "4b97e5e0-c25f-4b4e-bec5-a3a4c3c5adf3",
+      "name": "Black Tea",
+      "cateId": "3",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecma-4dd6f.appspot.com/o/images%2Ftea4.jpg?alt=media&token=61ffdf8a-2f81-4db9-962f-4c864e25db8a",
+      "detail": "Khi uống 1 tách trà, đa số chúng ta đều có cảm giác lâng lâng, mạch máu lưu thông tốt hơn và tinh thần hưng phấn hơn. Đó là nhờ tác dụng của caffeine. Trà đen có chứa caffeine, nhưng lượng caffeine thấp hơn trong café. Lượng caffeine thấp này lại tăng cường tuần hoàn máu lên não mà không gây kích thích tim quá độ, giúp người uống tập trung tốt hơn.",
+      "price": "60000"
+    },
+    {
+      "id": "a4c23b52-9baa-4575-902f-fa0c81b2f138",
+      "name": "Coffe Phin",
+      "cateId": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecma-4dd6f.appspot.com/o/images%2Fcfphin.jpg?alt=media&token=b8ecb73f-780e-4065-bde8-9cb1e1058049",
+      "detail": "Cà phê phin là tên gọi cho món cà phê được pha bằng phin – là một vật dụng có hình dáng tương tự một chiếc cốc, dưới đáy có nhiều lỗ nhỏ li ti, kèm thêm một dụng cụ nén hình tròn đặt vừa vào trong cốc phin dùng để pha và lọc cà phê.",
+      "price": "50000",
+      "status": true
+    },
+    {
+      "id": "6aaa03a5-e943-4e67-ad4e-089c016eff76",
+      "name": "Oolong Tea",
+      "cateId": "3",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecma-4dd6f.appspot.com/o/images%2Ftea7.jpg?alt=media&token=22757c44-b76d-46db-bee9-6e723c8c2ec4",
+      "detail": "Là một trà truyền thống Trung Quốc . Sản xuất thông qua một quá trình độc đáo như phơi lá chè cho héo dưới ánh mặt trời và quá trình oxy hóa mạnh mẽ trước khi sấy",
+      "price": "60000",
+      "status": true
+    },
+    {
+      "id": "9f21f686-2d21-4ae2-8924-4a2cd455ed8c",
+      "name": "aaaaaaaaa",
+      "cateId": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecma-4dd6f.appspot.com/o/images%2Fniceimg10.jpg?alt=media&token=88255a38-7669-4f5d-95aa-b483e02a073f",
+      "detail": "77777777777777",
+      "price": "33333333",
+      "status": true
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Coffe"
+    },
+    {
+      "id": "2",
+      "name": "Cakes"
+    },
+    {
+      "id": "3",
+      "name": "Tea"
+    },
+    {
+      "name": "Pizza 123",
+      "description": "Pizza Hut 123",
+      "id": "1db5fbb8-9b24-4004-9ffa-0742123585aa"
+    }
+  ]
+}
